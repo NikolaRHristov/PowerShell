@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy
     steps:
-      - uses: actions/setup-node@v4.3.0
+      - uses: actions/setup-node@v4.4.0
         with:
           submodules: true
           persist-credentials: false
@@ -27,7 +27,7 @@ jobs:
         with:
           go-version: 1.21
           cache-dependency-path: src/go.sum
-      - uses: actions/setup-node@v4.3.0
+      - uses: actions/setup-node@v4.4.0
         with:
           node-version: 20.9.0
         # Create Kind cluster to have a Kubernetes context for cloud-native-azure theme
