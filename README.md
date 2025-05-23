@@ -29,7 +29,7 @@ This repo was made with love using GitKraken.
 ![`Discord badge`](https://img.shields.io/discord/1023597603331526656)
 
 What started as the offspring of
-[`oh-my-posh2`](HTTPS://GitHub.Com/JanDeDobbeleer/oh-my-posh2) for PowerShell
+[`oh-my-posh2`](https://GitHub.Com/JanDeDobbeleer/oh-my-posh2) for PowerShell
 resulted in a cross platform, highly customizable and extensible prompt theme
 engine. After 4 years of working on oh-my-posh, a modern and more efficient tool
 was needed to suit my personal needs.
@@ -60,35 +60,35 @@ donation?
 ## Reviews
 
 -   [`Repo review`](https://repo-reviews.github.io//reviews/2023-06-21_TameWizard_JanDeDobbeleer_oh-my-posh)
-    by [`TameWizard`](HTTPS://GitHub.Com/TameWizard)
+    by [`TameWizard`](https://GitHub.Com/TameWizard)
 
 ## Thanks
 
--   [`Chris Benti`](HTTPS://GitHub.Com/chrisbenti/PS-Config) providing the first
+-   [`Chris Benti`](https://GitHub.Com/chrisbenti/PS-Config) providing the first
     influence to start oh-my-posh
--   [`Keith Dahlby`](HTTPS://GitHub.Com/dahlbyk/posh-git) for creating posh-git
+-   [`Keith Dahlby`](https://GitHub.Com/dahlbyk/posh-git) for creating posh-git
     and making life more enjoyable
--   [`Robby Russell`](HTTPS://GitHub.Com/ohmyzsh/ohmyzsh) for creating oh-my-zsh,
+-   [`Robby Russell`](https://GitHub.Com/ohmyzsh/ohmyzsh) for creating oh-my-zsh,
     without him this would probably not be here
--   [`Janne Mareike Koschinski`](HTTPS://GitHub.Com/justjanne) for providing
+-   [`Janne Mareike Koschinski`](https://GitHub.Com/justjanne) for providing
     information on how to get certain information using Go (and the amazing
-    [`README`](HTTPS://GitHub.Com/justjanne/powerline-go))
--   [`Starship`](HTTPS://GitHub.Com/starship/starship/blob/master/src/init/mod.rs)
+    [`README`](https://GitHub.Com/justjanne/powerline-go))
+-   [`Starship`](https://GitHub.Com/starship/starship/blob/master/src/init/mod.rs)
     for doing great things
 
 [kraken]:
-	HTTPS://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken
-[kraken-ref]: HTTPS://www.gitkraken.com/invite/nQmDPR9D
-[swag-badge]: HTTPS://img.shields.io/badge/Swag-Get%20some!-blue
-[swag]: HTTPS://swag.ohmyposh.dev
+	https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken
+[kraken-ref]: https://www.gitkraken.com/invite/nQmDPR9D
+[swag-badge]: https://img.shields.io/badge/Swag-Get%20some!-blue
+[swag]: https://swag.ohmyposh.dev
 [github-badge]:
-	HTTPS://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors
-[github-sponsors]: HTTPS://github.com/sponsors/JanDeDobbeleer
+	https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors
+[github-sponsors]: https://github.com/sponsors/JanDeDobbeleer
 [kofi-badge]:
-	HTTPS://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee!-%2346b798.svg
-[kofi]: HTTPS://ko-fi.com/jandedobbeleer
-[docs-badge]: HTTPS://img.shields.io/badge/Docs-ohmyposh.dev-blue
-[docs]: HTTPS://ohmyposh.dev
+	https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee!-%2346b798.svg
+[kofi]: https://ko-fi.com/jandedobbeleer
+[docs-badge]: https://img.shields.io/badge/Docs-ohmyposh.dev-blue
+[docs]: https://ohmyposh.dev
 [release-badge]:
-	HTTPS://img.shields.io/github/v/release/jandedobbeleer/oh-my-posh?label=Release
-[release]: HTTPS://github.com/JanDeDobbeleer/oh-my-posh/releases/latest
+	https://img.shields.io/github/v/release/jandedobbeleer/oh-my-posh?label=Release
+[release]: https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest
