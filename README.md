@@ -45,13 +45,13 @@ donation?
 
 ## Features
 
--   Shell and platform agnostic
--   Easily configurable
--   The **most** configurable prompt utility
--   Fast
--   Secondary prompt
--   Right prompt
--   Transient prompt
+- Shell and platform agnostic
+- Easily configurable
+- The **most** configurable prompt utility
+- Fast
+- Secondary prompt
+- Right prompt
+- Transient prompt
 
 ## Documentation
 
@@ -59,22 +59,22 @@ donation?
 
 ## Reviews
 
--   [`Repo review`](https://repo-reviews.github.io//reviews/2023-06-21_TameWizard_JanDeDobbeleer_oh-my-posh)
-    by [`TameWizard`](https://GitHub.Com/TameWizard)
+- [`Repo review`](https://repo-reviews.github.io//reviews/2023-06-21_TameWizard_JanDeDobbeleer_oh-my-posh)
+  by [`TameWizard`](https://GitHub.Com/TameWizard)
 
 ## Thanks
 
--   [`Chris Benti`](https://GitHub.Com/chrisbenti/PS-Config) providing the first
-    influence to start oh-my-posh
--   [`Keith Dahlby`](https://GitHub.Com/dahlbyk/posh-git) for creating posh-git
-    and making life more enjoyable
--   [`Robby Russell`](https://GitHub.Com/ohmyzsh/ohmyzsh) for creating oh-my-zsh,
-    without him this would probably not be here
--   [`Janne Mareike Koschinski`](https://GitHub.Com/justjanne) for providing
-    information on how to get certain information using Go (and the amazing
-    [`README`](https://GitHub.Com/justjanne/powerline-go))
--   [`Starship`](https://GitHub.Com/starship/starship/blob/master/src/init/mod.rs)
-    for doing great things
+- [`Chris Benti`](https://GitHub.Com/chrisbenti/PS-Config) providing the first
+  influence to start oh-my-posh
+- [`Keith Dahlby`](https://GitHub.Com/dahlbyk/posh-git) for creating posh-git
+  and making life more enjoyable
+- [`Robby Russell`](https://GitHub.Com/ohmyzsh/ohmyzsh) for creating oh-my-zsh,
+  without him this would probably not be here
+- [`Janne Mareike Koschinski`](https://GitHub.Com/justjanne) for providing
+  information on how to get certain information using Go (and the amazing
+  [`README`](https://GitHub.Com/justjanne/powerline-go))
+- [`Starship`](https://GitHub.Com/starship/starship/blob/master/src/init/mod.rs)
+  for doing great things
 
 [kraken]:
 	https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken
