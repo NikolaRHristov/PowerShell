@@ -15,7 +15,7 @@ jobs:
         working-directory: ${{ github.workspace }}/packages/inno
     steps:
     - name: Checkout code 👋
-      uses: actions/setup-node@v4.4.0
+      uses: actions/setup-node@v6.1.0
     - name: Build installer 📦
       id: build
       env:

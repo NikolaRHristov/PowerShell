@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code 👋
-        uses: actions/setup-node@v4.4.0
+        uses: actions/setup-node@v6.1.0
       - name: Check and merge ⛙
         uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
         with:

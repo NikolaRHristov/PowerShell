@@ -17,7 +17,7 @@ jobs:
       WINGETCREATE_TOKEN: ${{ secrets.WINGETCREATE_TOKEN }}
     steps:
     - name: Checkout code 👋
-      uses: actions/setup-node@v4.4.0
+      uses: actions/setup-node@v6.1.0
     - name: Create manifest and submit PR 📦
       run: |
         ./build.ps1 -Version "${{ github.event.inputs.version }}" -Token $env:WINGETCREATE_TOKEN
