@@ -9,7 +9,7 @@ jobs:
     container: ghcr.io/jandedobbeleer/golang-android-container:latest
     steps:
     - name: Checkout code 👋
-      uses: actions/setup-node@v4.4.0
+      uses: actions/setup-node@v6.1.0
     - name: Build
       run: |
         VERSION=$(echo "${{ github.event.release.name }}" | cut -c2-)

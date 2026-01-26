@@ -17,7 +17,7 @@ jobs:
         shell: pwsh
     steps:
     - name: Checkout code 👋
-      uses: actions/setup-node@v4.4.0
+      uses: actions/setup-node@v6.1.0
     - name: Install Go 🗳
       uses: ./.github/workflows/composite/bootstrap-go
     - name: Run GoReleaser 🚀
@@ -28,7 +28,7 @@ jobs:
         args: build --clean --snapshot --skip=post-hooks --skip=before
         workdir: src
     - name: Archive production artifacts
-      uses: actions/upload-artifact@v4.6.2
+      uses: actions/upload-artifact@v6.0.0
       with:
         name: builds
         retention-days: 1
